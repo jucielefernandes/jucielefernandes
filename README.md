@@ -6,7 +6,7 @@ Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.
 
 
 👩‍💻 Desenvolvedora Júnior, C# , .net , js </br>
-🎓 Cursando Tecnologo em Sistema para  Informação(2021-2024)</br>
+🎓 Cursando Tecnologo em Sistema para  Informática(2021-2024)</br>
 💻 Técnico em Informática para Internet</br>
 😋 Minha comida favorita é: Lasanha.</br>
 🥋 Esportes: taekwondo </br>
