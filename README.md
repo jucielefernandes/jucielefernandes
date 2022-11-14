@@ -18,6 +18,7 @@ Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.
 ### 🚀 Skills
 
 
+
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=black"/> <img src="https://img.shields.io/badge/-HTML-f44336?style=for-the-badge&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/-CSS-0b5394?style=for-the-badge&logo=CSS3&logoColor=black"/>
 
 ### Softwares:
