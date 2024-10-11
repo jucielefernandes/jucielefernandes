@@ -5,8 +5,8 @@ Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.
 
 
 
-👩‍💻 Desenvolvedora Júnior, C# , .net , js </br>
-🎓 Cursando Ánalise e Desenvolvimento em Sistema(2022-2024)</br>
+👩‍💻 Desenvolvedora Java </br>
+🎓 Cursando Ánalise e Desenvolvimento em Sistema</br>
 😋 Minha comida favorita é: Lasanha.</br>
 🥋 Esportes: taekwondo </br>
 
