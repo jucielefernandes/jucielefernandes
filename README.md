@@ -32,7 +32,7 @@ Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.
 
 <div align="center">
   <br><p><b>Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViihNeris}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jucielefernandes}/count.svg" /></p> 
 </div>
 
 Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
