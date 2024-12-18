@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/developer_girl.png" min-width="160px" max-width="160px" width="160px" align="right" alt="Computer">
+<img src="https://github.com/jucielefernandes/PNG_README/blob/main/Programador.png" min-width="160px" max-width="160px" width="160px" align="right" alt="Computer">
 
 
 
@@ -14,7 +14,7 @@
 🥋 Esporte: taekwondo </br>
 
 
-Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
+Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.com/jucielefernandes/PNG_README/blob/main/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
 
 
 
