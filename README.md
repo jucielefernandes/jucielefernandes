@@ -1,15 +1,18 @@
-### Hello World🌎
-Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='27' align="left"/>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea6519&size=35&center=true&vCenter=true&width=1000&lines=Hello+World+🌎;+Sou+a+Juh;+Desenvolvedora+Full-Stack+Developer+👩🏻‍💻;Conheça+meus+repositórios!+💻🧡)](https://git.io/typing-svg)
 
 
+
+<img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/developer_girl.png" min-width="160px" max-width="160px" width="160px" align="right" alt="Computer">
 
 
 
 👩‍💻 Desenvolvedora Júnior Java </br>
 🎓 Cursando Análise e Desenvolvimento em Sistema</br>
 😋 Minha comida favorita é: Lasanha.</br>
-🥋 Esportes: taekwondo </br>
+🥋 Esporte: taekwondo </br>
 
+
+Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
 
 
 
@@ -35,6 +38,7 @@ Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jucielefernandes}/count.svg" /></p> 
 </div>
 
-Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.com/ViihNeris/ViihNeris/blob/main/images/AvanadeLogo.png" min-width="50px" max-width="100px" width="100px" align="center" alt="logo da empresa AVANADE"> 🧡🚀👩🏻‍💻
+
+
 
 
