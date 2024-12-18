@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea6519&size=35&center=true&vCenter=true&width=1000&lines=Hello+World+🌎;+Sou+a+Juh;+Desenvolvedora+Full-Stack+Developer+👩🏻‍💻;Conheça+meus+repositórios!+💻🧡)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea6519&height=160&section=header&text=Welcome!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea6519&size=35&center=true&vCenter=true&width=1000&lines=Hello,++Sou+a+Juh;+Desenvolvedora+Full-Stack+Developer+👩🏻‍💻;Conheça+meus+repositórios!+💻🧡)](https://git.io/typing-svg)
 
 
 
@@ -6,7 +8,7 @@
 
 
 
-👩‍💻 Desenvolvedora Júnior Java </br>
+👩‍💻 Desenvolvedora Full-Stack </br>
 🎓 Cursando Análise e Desenvolvimento em Sistema</br>
 😋 Minha comida favorita é: Lasanha.</br>
 🥋 Esporte: taekwondo </br>
@@ -39,6 +41,6 @@ Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.
 </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea6519&height=160&section=footer&text=Sempre+há+novidades.+Volte+Sempre!+👩🏻‍💻🧡&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 
 
