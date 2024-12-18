@@ -25,7 +25,7 @@ Sou a Juciele <img alt="handwavegif" src="https://user-images.githubusercontent.
 
 
 
-### 📅 Stats
+### 📅 Status
 [![Stats](https://github-readme-stats.vercel.app/api?username=jucielefernandes)](https://github.com/jucielefernandes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucielefernandes&layout=compact)](https://github.com/jucielefernandes)
 
