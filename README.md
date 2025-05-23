@@ -21,7 +21,6 @@ Atualmente sou <b><i>Assoc, Full-Stack Dev </i></b> na <img src="https://github.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-f44336?style=for-the-badge&logo=html5&logoColor=black"/>
